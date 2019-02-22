@@ -1,0 +1,22 @@
+inithash d 10
+20
+insert 609 stud Usha 9.3 319cb 19
+find 609
+insert 371 mat TS 1 3 3 4
+find 609
+delete 371
+insert 994 mat ELTH 1 6 2 4
+delete 994
+find 981
+insert 163 mat USO 1 4 3 1
+find 994
+insert 454 mat ED 1 6 3 3
+find 715
+find 71
+find 454
+insert 669 stud Leanna 6.8 318cc 20
+find 715
+find 371
+delete 371
+insert 651 stud Lucille 7.9 318cc 21
+print

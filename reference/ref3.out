@@ -1,0 +1,3000 @@
+[0] :
+[1] :
+[2] :
+[3] :
+[4] :
+[5] : (5 -> [Nume: Marceline, Grupa: 320cd, Medie: 8.00, Varsta: 23])
+[6] :
+[7] :
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] :
+[22] :
+[23] :
+[24] :
+[25] :
+[26] :
+[27] :
+[28] :
+[29] :
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] :
+[45] :
+[46] :
+[47] :
+[48] :
+[49] :
+[50] :
+[51] :
+[52] :
+[53] :
+[54] :
+[55] :
+[56] :
+[57] :
+[58] :
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] :
+[63] :
+[64] :
+[65] :
+[66] :
+[67] :
+[68] :
+[69] :
+[70] :
+[71] :
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] :
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] :
+[90] :
+[91] :
+[92] :
+[93] :
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] :
+[3] :
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] :
+[7] :
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] :
+[23] :
+[24] :
+[25] :
+[26] :
+[27] :
+[28] :
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] :
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] :
+[50] :
+[51] :
+[52] :
+[53] :
+[54] :
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] :
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] :
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] :
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] :
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] :
+[90] :
+[91] :
+[92] :
+[93] :
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] :
+[3] :
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] :
+[7] :
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] :
+[23] :
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] :
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] :
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] :
+[50] :
+[51] :
+[52] :
+[53] :
+[54] :
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] :
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] :
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] :
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] :
+[90] :
+[91] :
+[92] :
+[93] :
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] :
+[3] :
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] :
+[7] :
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] :
+[23] :
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] :
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] :
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] :
+[50] :
+[51] :
+[52] :
+[53] :
+[54] :
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] :
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] :
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] :
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] :
+[90] :
+[91] :
+[92] :
+[93] :
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] :
+[3] :
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] :
+[7] :
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] :
+[23] :
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] :
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] :
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] :
+[50] :
+[51] :
+[52] :
+[53] :
+[54] :
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] :
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] :
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] :
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] :
+[90] :
+[91] :
+[92] :
+[93] :
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] :
+[3] :
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] :
+[7] :
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] :
+[23] :
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] :
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] :
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] :
+[50] :
+[51] :
+[52] :
+[53] :
+[54] :
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] :
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] :
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] :
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] :
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] :
+[3] :
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] :
+[7] :
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] :
+[23] :
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] :
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] :
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] :
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] :
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] :
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] :
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] :
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] :
+[3] :
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] :
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] :
+[23] :
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] :
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] :
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] :
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] :
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] :
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Nume: Leola, Grupa: 314cd, Medie: 6.10, Varsta: 29])
+[23] :
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: PM, Ore_curs: 3, Ore_lab: 6, Credit: 2, Teme: 5])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Felicita, Grupa: 319ce, Medie: 6.50, Varsta: 21])
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] :
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Nume: Leola, Grupa: 314cd, Medie: 6.10, Varsta: 29])
+[23] : (23 -> [Nume: Lucille, Grupa: 313cb, Medie: 6.30, Varsta: 25])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: PM, Ore_curs: 3, Ore_lab: 6, Credit: 2, Teme: 5])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Felicita, Grupa: 319ce, Medie: 6.50, Varsta: 21])
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Nume: Leola, Grupa: 314cd, Medie: 6.10, Varsta: 29])
+[23] : (23 -> [Nume: Lucille, Grupa: 313cb, Medie: 6.30, Varsta: 25])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: PM, Ore_curs: 3, Ore_lab: 6, Credit: 2, Teme: 5])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Felicita, Grupa: 319ce, Medie: 6.50, Varsta: 21])
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Nume: Leola, Grupa: 314cd, Medie: 6.10, Varsta: 29])
+[23] : (23 -> [Nume: Lucille, Grupa: 313cb, Medie: 6.30, Varsta: 25])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] :
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: PM, Ore_curs: 3, Ore_lab: 6, Credit: 2, Teme: 5])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Felicita, Grupa: 319ce, Medie: 6.50, Varsta: 21])
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] :
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Lucille, Grupa: 313cb, Medie: 6.30, Varsta: 25])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: PM, Ore_curs: 3, Ore_lab: 6, Credit: 2, Teme: 5])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Felicita, Grupa: 319ce, Medie: 6.50, Varsta: 21])
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Lucille, Grupa: 313cb, Medie: 6.30, Varsta: 25])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: PM, Ore_curs: 3, Ore_lab: 6, Credit: 2, Teme: 5])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Felicita, Grupa: 319ce, Medie: 6.50, Varsta: 21])
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Lucille, Grupa: 313cb, Medie: 6.30, Varsta: 25])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: PM, Ore_curs: 3, Ore_lab: 6, Credit: 2, Teme: 5])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Felicita, Grupa: 319ce, Medie: 6.50, Varsta: 21])
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] :
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Lucille, Grupa: 313cb, Medie: 6.30, Varsta: 25])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: PM, Ore_curs: 3, Ore_lab: 6, Credit: 2, Teme: 5])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] :
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Lucille, Grupa: 313cb, Medie: 6.30, Varsta: 25])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: PM, Ore_curs: 3, Ore_lab: 6, Credit: 2, Teme: 5])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Materie: ED, Ore_curs: 1, Ore_lab: 5, Credit: 3, Teme: 6])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Lucille, Grupa: 313cb, Medie: 6.30, Varsta: 25])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: PM, Ore_curs: 3, Ore_lab: 6, Credit: 2, Teme: 5])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] :
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] :
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] :
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Lucille, Grupa: 313cb, Medie: 6.30, Varsta: 25])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 6])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] : (20 -> [Nume: Erwin, Grupa: 312cb, Medie: 9.00, Varsta: 21])
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Lucille, Grupa: 313cb, Medie: 6.30, Varsta: 25])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Nume: Sonia, Grupa: 318cc, Medie: 6.60, Varsta: 27])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: BD, Ore_curs: 3, Ore_lab: 3, Credit: 2, Teme: 2])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] : (20 -> [Nume: Erwin, Grupa: 312cb, Medie: 9.00, Varsta: 21])
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Brendan, Grupa: 311cf, Medie: 6.30, Varsta: 22])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Materie: USO, Ore_curs: 1, Ore_lab: 2, Credit: 2, Teme: 6])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: BD, Ore_curs: 3, Ore_lab: 3, Credit: 2, Teme: 2])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] : (20 -> [Nume: Erwin, Grupa: 312cb, Medie: 9.00, Varsta: 21])
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Brendan, Grupa: 311cf, Medie: 6.30, Varsta: 22])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Materie: USO, Ore_curs: 1, Ore_lab: 2, Credit: 2, Teme: 6])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] :
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: BD, Ore_curs: 3, Ore_lab: 3, Credit: 2, Teme: 2])
+[90] :
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] :
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Materie: ML, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 1])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] : (20 -> [Nume: Erwin, Grupa: 312cb, Medie: 9.00, Varsta: 21])
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Brendan, Grupa: 311cf, Medie: 6.30, Varsta: 22])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Materie: USO, Ore_curs: 1, Ore_lab: 2, Credit: 2, Teme: 6])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] :
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] : (52 -> [Materie: POO, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 1])
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] :
+[80] :
+[81] :
+[82] :
+[83] :
+[84] :
+[85] :
+[86] :
+[87] :
+[88] :
+[89] : (89 -> [Materie: BD, Ore_curs: 3, Ore_lab: 3, Credit: 2, Teme: 2])
+[90] : (90 -> [Materie: MN, Ore_curs: 4, Ore_lab: 1, Credit: 3, Teme: 5])
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] : (98 -> [Materie: SO, Ore_curs: 2, Ore_lab: 4, Credit: 3, Teme: 1])
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Nume: Belva, Grupa: 317cf, Medie: 8.40, Varsta: 29])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] : (20 -> [Materie: USO, Ore_curs: 3, Ore_lab: 4, Credit: 2, Teme: 3])
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Brendan, Grupa: 311cf, Medie: 6.30, Varsta: 22])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Materie: BD, Ore_curs: 4, Ore_lab: 3, Credit: 3, Teme: 2])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] : (38 -> [Nume: Bryce, Grupa: 317cf, Medie: 7.40, Varsta: 23])
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] : (52 -> [Materie: POO, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 1])
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] :
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] : (79 -> [Materie: POO, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 5])
+[80] :
+[81] :
+[82] :
+[83] : (83 -> [Materie: PA, Ore_curs: 1, Ore_lab: 4, Credit: 3, Teme: 4])
+[84] :
+[85] : (85 -> [Materie: PM, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 5])
+[86] : (86 -> [Nume: Leola, Grupa: 311cc, Medie: 7.30, Varsta: 28])
+[87] :
+[88] :
+[89] : (89 -> [Materie: BD, Ore_curs: 3, Ore_lab: 3, Credit: 2, Teme: 2])
+[90] : (90 -> [Materie: MN, Ore_curs: 4, Ore_lab: 1, Credit: 3, Teme: 5])
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] : (98 -> [Materie: SO, Ore_curs: 2, Ore_lab: 4, Credit: 3, Teme: 1])
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Nume: Belva, Grupa: 317cf, Medie: 8.40, Varsta: 29])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] : (20 -> [Materie: USO, Ore_curs: 3, Ore_lab: 4, Credit: 2, Teme: 3])
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Brendan, Grupa: 311cf, Medie: 6.30, Varsta: 22])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Materie: BD, Ore_curs: 4, Ore_lab: 3, Credit: 3, Teme: 2])
+[30] :
+[31] :
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] : (38 -> [Nume: Bryce, Grupa: 317cf, Medie: 7.40, Varsta: 23])
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] : (52 -> [Materie: POO, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 1])
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] : (64 -> [Materie: PA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] : (79 -> [Materie: POO, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 5])
+[80] :
+[81] :
+[82] :
+[83] : (83 -> [Materie: PA, Ore_curs: 1, Ore_lab: 4, Credit: 3, Teme: 4])
+[84] :
+[85] : (85 -> [Materie: PM, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 5])
+[86] : (86 -> [Nume: Leola, Grupa: 311cc, Medie: 7.30, Varsta: 28])
+[87] :
+[88] :
+[89] : (89 -> [Materie: BD, Ore_curs: 3, Ore_lab: 3, Credit: 2, Teme: 2])
+[90] : (90 -> [Materie: MN, Ore_curs: 4, Ore_lab: 1, Credit: 3, Teme: 5])
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] : (98 -> [Materie: SO, Ore_curs: 2, Ore_lab: 4, Credit: 3, Teme: 1])
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Nume: Belva, Grupa: 317cf, Medie: 8.40, Varsta: 29])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] : (20 -> [Materie: USO, Ore_curs: 3, Ore_lab: 4, Credit: 2, Teme: 3])
+[21] : (21 -> [Materie: USO, Ore_curs: 4, Ore_lab: 4, Credit: 2, Teme: 6])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Brendan, Grupa: 311cf, Medie: 6.30, Varsta: 22])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Materie: BD, Ore_curs: 4, Ore_lab: 3, Credit: 3, Teme: 2])
+[30] :
+[31] : (31 -> [Materie: BD, Ore_curs: 4, Ore_lab: 5, Credit: 3, Teme: 4])
+[32] :
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] : (38 -> [Nume: Bryce, Grupa: 317cf, Medie: 7.40, Varsta: 23])
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] : (52 -> [Materie: POO, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 1])
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] :
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Nume: Usha, Grupa: 315ce, Medie: 8.60, Varsta: 25])
+[63] :
+[64] : (64 -> [Materie: PA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] : (79 -> [Materie: POO, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 5])
+[80] :
+[81] :
+[82] :
+[83] : (83 -> [Materie: PA, Ore_curs: 1, Ore_lab: 4, Credit: 3, Teme: 4])
+[84] :
+[85] : (85 -> [Materie: PM, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 5])
+[86] : (86 -> [Nume: Leola, Grupa: 311cc, Medie: 7.30, Varsta: 28])
+[87] :
+[88] :
+[89] : (89 -> [Materie: BD, Ore_curs: 3, Ore_lab: 3, Credit: 2, Teme: 2])
+[90] : (90 -> [Materie: MN, Ore_curs: 4, Ore_lab: 1, Credit: 3, Teme: 5])
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] : (98 -> [Materie: SO, Ore_curs: 2, Ore_lab: 4, Credit: 3, Teme: 1])
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Nume: Belva, Grupa: 317cf, Medie: 8.40, Varsta: 29])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] : (20 -> [Materie: USO, Ore_curs: 3, Ore_lab: 4, Credit: 2, Teme: 3])
+[21] : (21 -> [Materie: CN1, Ore_curs: 1, Ore_lab: 1, Credit: 2, Teme: 4])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Brendan, Grupa: 311cf, Medie: 6.30, Varsta: 22])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 3])
+[30] :
+[31] : (31 -> [Materie: BD, Ore_curs: 4, Ore_lab: 5, Credit: 3, Teme: 4])
+[32] : (32 -> [Nume: Laurinda, Grupa: 313ca, Medie: 7.40, Varsta: 24])
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] : (38 -> [Nume: Bryce, Grupa: 317cf, Medie: 7.40, Varsta: 23])
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] : (52 -> [Materie: POO, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 1])
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] : (56 -> [Materie: POO, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 4])
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Materie: PL, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 3])
+[63] :
+[64] : (64 -> [Materie: PA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] : (79 -> [Materie: POO, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 5])
+[80] : (80 -> [Nume: Roxanne, Grupa: 312cb, Medie: 7.60, Varsta: 29])
+[81] :
+[82] :
+[83] : (83 -> [Materie: PA, Ore_curs: 1, Ore_lab: 4, Credit: 3, Teme: 4])
+[84] :
+[85] : (85 -> [Materie: PM, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 5])
+[86] : (86 -> [Nume: Leola, Grupa: 311cc, Medie: 7.30, Varsta: 28])
+[87] :
+[88] : (88 -> [Nume: Oneida, Grupa: 315cb, Medie: 7.60, Varsta: 28])
+[89] : (89 -> [Materie: BD, Ore_curs: 3, Ore_lab: 3, Credit: 2, Teme: 2])
+[90] : (90 -> [Materie: MN, Ore_curs: 4, Ore_lab: 1, Credit: 3, Teme: 5])
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] : (98 -> [Materie: SO, Ore_curs: 2, Ore_lab: 4, Credit: 3, Teme: 1])
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Nume: Belva, Grupa: 317cf, Medie: 8.40, Varsta: 29])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] : (20 -> [Materie: USO, Ore_curs: 3, Ore_lab: 4, Credit: 2, Teme: 3])
+[21] : (21 -> [Materie: CN1, Ore_curs: 1, Ore_lab: 1, Credit: 2, Teme: 4])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Brendan, Grupa: 311cf, Medie: 6.30, Varsta: 22])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] :
+[27] :
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 3])
+[30] :
+[31] : (31 -> [Materie: BD, Ore_curs: 4, Ore_lab: 5, Credit: 3, Teme: 4])
+[32] : (32 -> [Nume: Laurinda, Grupa: 313ca, Medie: 7.40, Varsta: 24])
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] : (38 -> [Nume: Bryce, Grupa: 317cf, Medie: 7.40, Varsta: 23])
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] : (52 -> [Materie: POO, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 1])
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] : (56 -> [Materie: POO, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 4])
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Materie: PL, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 3])
+[63] :
+[64] : (64 -> [Materie: PA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] : (79 -> [Materie: POO, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 5])
+[80] : (80 -> [Nume: Roxanne, Grupa: 312cb, Medie: 7.60, Varsta: 29])
+[81] :
+[82] :
+[83] : (83 -> [Materie: PA, Ore_curs: 1, Ore_lab: 4, Credit: 3, Teme: 4])
+[84] :
+[85] : (85 -> [Materie: PM, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 5])
+[86] : (86 -> [Nume: Leola, Grupa: 311cc, Medie: 7.30, Varsta: 28])
+[87] :
+[88] : (88 -> [Nume: Oneida, Grupa: 315cb, Medie: 7.60, Varsta: 28])
+[89] : (89 -> [Materie: BD, Ore_curs: 3, Ore_lab: 3, Credit: 2, Teme: 2])
+[90] : (90 -> [Materie: MN, Ore_curs: 4, Ore_lab: 1, Credit: 3, Teme: 5])
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] : (98 -> [Materie: SO, Ore_curs: 2, Ore_lab: 4, Credit: 3, Teme: 1])
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Nume: Belva, Grupa: 317cf, Medie: 8.40, Varsta: 29])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] : (20 -> [Materie: USO, Ore_curs: 3, Ore_lab: 4, Credit: 2, Teme: 3])
+[21] : (21 -> [Materie: CN1, Ore_curs: 1, Ore_lab: 1, Credit: 2, Teme: 4])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Brendan, Grupa: 311cf, Medie: 6.30, Varsta: 22])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] : (26 -> [Nume: Lai, Grupa: 318cc, Medie: 7.40, Varsta: 25])
+[27] : (27 -> [Materie: SPG, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 5])
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 3])
+[30] :
+[31] : (31 -> [Materie: BD, Ore_curs: 4, Ore_lab: 5, Credit: 3, Teme: 4])
+[32] : (32 -> [Nume: Laurinda, Grupa: 313ca, Medie: 7.40, Varsta: 24])
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] : (38 -> [Nume: Bryce, Grupa: 317cf, Medie: 7.40, Varsta: 23])
+[39] :
+[40] :
+[41] :
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] : (52 -> [Materie: POO, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 1])
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] : (56 -> [Materie: POO, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 4])
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Materie: PL, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 3])
+[63] :
+[64] : (64 -> [Nume: Angelique, Grupa: 318ce, Medie: 8.90, Varsta: 20])
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Nume: Jannie, Grupa: 313cc, Medie: 7.30, Varsta: 29])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] : (79 -> [Materie: POO, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 5])
+[80] : (80 -> [Nume: Roxanne, Grupa: 312cb, Medie: 7.60, Varsta: 29])
+[81] :
+[82] :
+[83] : (83 -> [Materie: PA, Ore_curs: 1, Ore_lab: 4, Credit: 3, Teme: 4])
+[84] :
+[85] : (85 -> [Materie: PM, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 5])
+[86] : (86 -> [Nume: Leola, Grupa: 311cc, Medie: 7.30, Varsta: 28])
+[87] :
+[88] : (88 -> [Nume: Oneida, Grupa: 315cb, Medie: 7.60, Varsta: 28])
+[89] : (89 -> [Materie: BD, Ore_curs: 3, Ore_lab: 3, Credit: 2, Teme: 2])
+[90] : (90 -> [Materie: MN, Ore_curs: 4, Ore_lab: 1, Credit: 3, Teme: 5])
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] : (98 -> [Materie: SO, Ore_curs: 2, Ore_lab: 4, Credit: 3, Teme: 1])
+[99] :
+[0] : (100 -> [Nume: Raylene, Grupa: 313cd, Medie: 7.60, Varsta: 19])
+[1] :
+[2] : (2 -> [Materie: PC, Ore_curs: 1, Ore_lab: 5, Credit: 2, Teme: 4])
+[3] : (3 -> [Materie: EEA, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 4])
+[4] :
+[5] : (5 -> [Nume: Malena, Grupa: 314cd, Medie: 9.30, Varsta: 25])
+[6] : (6 -> [Nume: Belva, Grupa: 317cf, Medie: 8.40, Varsta: 29])
+[7] : (7 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 2])
+[8] :
+[9] :
+[10] :
+[11] : (11 -> [Materie: EGC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 6])
+[12] :
+[13] :
+[14] :
+[15] :
+[16] :
+[17] :
+[18] :
+[19] :
+[20] : (20 -> [Materie: USO, Ore_curs: 3, Ore_lab: 4, Credit: 2, Teme: 3])
+[21] : (21 -> [Materie: CN1, Ore_curs: 1, Ore_lab: 1, Credit: 2, Teme: 4])
+[22] : (22 -> [Materie: Ghinion, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 1])
+[23] : (23 -> [Nume: Brendan, Grupa: 311cf, Medie: 6.30, Varsta: 22])
+[24] : (24 -> [Materie: PA, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 2])
+[25] :
+[26] : (26 -> [Nume: Lai, Grupa: 318cc, Medie: 7.40, Varsta: 25])
+[27] : (27 -> [Materie: SPG, Ore_curs: 1, Ore_lab: 3, Credit: 2, Teme: 5])
+[28] : (28 -> [Nume: Sierra, Grupa: 318ca, Medie: 9.20, Varsta: 24])
+[29] : (29 -> [Materie: PP, Ore_curs: 3, Ore_lab: 1, Credit: 3, Teme: 3])
+[30] :
+[31] : (31 -> [Materie: BD, Ore_curs: 4, Ore_lab: 5, Credit: 3, Teme: 4])
+[32] : (32 -> [Nume: Laurinda, Grupa: 313ca, Medie: 7.40, Varsta: 24])
+[33] :
+[34] :
+[35] :
+[36] : (36 -> [Materie: USO, Ore_curs: 2, Ore_lab: 1, Credit: 2, Teme: 3])
+[37] :
+[38] : (38 -> [Nume: Bryce, Grupa: 317cf, Medie: 7.40, Varsta: 23])
+[39] :
+[40] :
+[41] : (41 -> [Nume: Jannie, Grupa: 314ca, Medie: 7.90, Varsta: 28])
+[42] :
+[43] :
+[44] : (44 -> [Materie: IA, Ore_curs: 4, Ore_lab: 2, Credit: 3, Teme: 6])
+[45] :
+[46] : (46 -> [Nume: Jama, Grupa: 315cb, Medie: 10.00, Varsta: 18])
+[47] :
+[48] :
+[49] : (49 -> [Nume: Leora, Grupa: 315cd, Medie: 8.00, Varsta: 29])
+[50] :
+[51] : (51 -> [Materie: IOC, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 1])
+[52] : (52 -> [Materie: POO, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 1])
+[53] :
+[54] : (54 -> [Nume: Leanna, Grupa: 319cc, Medie: 8.70, Varsta: 21])
+[55] : (55 -> [Materie: PP, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[56] : (56 -> [Materie: POO, Ore_curs: 2, Ore_lab: 2, Credit: 2, Teme: 4])
+[57] : (57 -> [Materie: CPL, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 1])
+[58] : (58 -> [Nume: Elvira, Grupa: 314ce, Medie: 8.10, Varsta: 20])
+[59] :
+[60] : (60 -> [Nume: Malena, Grupa: 320cc, Medie: 7.90, Varsta: 21])
+[61] :
+[62] : (62 -> [Materie: PL, Ore_curs: 4, Ore_lab: 5, Credit: 2, Teme: 3])
+[63] :
+[64] : (64 -> [Nume: Angelique, Grupa: 318ce, Medie: 8.90, Varsta: 20])
+[65] : (65 -> [Materie: Matematica, Ore_curs: 1, Ore_lab: 2, Credit: 3, Teme: 6])
+[66] :
+[67] :
+[68] : (68 -> [Materie: MN, Ore_curs: 1, Ore_lab: 6, Credit: 2, Teme: 2])
+[69] :
+[70] :
+[71] : (71 -> [Materie: EEA, Ore_curs: 3, Ore_lab: 2, Credit: 3, Teme: 4])
+[72] :
+[73] : (73 -> [Materie: ED, Ore_curs: 3, Ore_lab: 2, Credit: 2, Teme: 5])
+[74] :
+[75] :
+[76] :
+[77] : (77 -> [Nume: Linda, Grupa: 316ca, Medie: 8.00, Varsta: 26])
+[78] : (78 -> [Nume: Oneida, Grupa: 316cb, Medie: 9.70, Varsta: 24])
+[79] : (79 -> [Materie: POO, Ore_curs: 4, Ore_lab: 4, Credit: 3, Teme: 5])
+[80] : (80 -> [Nume: Roxanne, Grupa: 312cb, Medie: 7.60, Varsta: 29])
+[81] :
+[82] :
+[83] : (83 -> [Materie: SO, Ore_curs: 1, Ore_lab: 3, Credit: 3, Teme: 2])
+[84] :
+[85] : (85 -> [Materie: PM, Ore_curs: 2, Ore_lab: 6, Credit: 3, Teme: 5])
+[86] : (86 -> [Nume: Leola, Grupa: 311cc, Medie: 7.30, Varsta: 28])
+[87] :
+[88] : (88 -> [Nume: Oneida, Grupa: 315cb, Medie: 7.60, Varsta: 28])
+[89] : (89 -> [Materie: BD, Ore_curs: 3, Ore_lab: 3, Credit: 2, Teme: 2])
+[90] : (90 -> [Materie: MN, Ore_curs: 4, Ore_lab: 1, Credit: 3, Teme: 5])
+[91] :
+[92] :
+[93] : (93 -> [Materie: Mizerie, Ore_curs: 4, Ore_lab: 6, Credit: 3, Teme: 6])
+[94] :
+[95] :
+[96] :
+[97] :
+[98] : (98 -> [Materie: SO, Ore_curs: 2, Ore_lab: 4, Credit: 3, Teme: 1])
+[99] : (99 -> [Nume: Roxanne, Grupa: 311cd, Medie: 8.80, Varsta: 26])

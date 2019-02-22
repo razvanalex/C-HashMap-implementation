@@ -1,0 +1,202 @@
+inithash d 20
+200
+find 31
+insert 36 stud Elvira 6.8 319cf 18 
+insert 50 stud Cassie 9.2 316cf 25 
+insert 36 stud Erwin 7.0 318cb 26 
+insert 50 mat CPL 1 5 3 2 
+find 23
+insert 88 mat MN 4 5 2 4 
+find 23
+insert 20 mat IOC 4 1 2 5 
+print
+find 36
+find 50
+find 23
+find 88
+print
+find 56
+find 56
+find 23
+find 36
+find 68
+find 88
+find 50
+insert 15 mat MPS 2 2 3 6 
+find 50
+insert 95 mat MN 1 6 3 4 
+find 31
+insert 69 stud Son 6.4 316cd 30 
+insert 17 stud Lucille 7.3 315cf 19 
+print
+insert 87 mat IOC 2 6 3 6 
+insert 7 mat EGC 4 1 2 2 
+insert 84 stud Jama 7.0 317cb 22 
+find 17
+find 23
+find 15
+insert 56 stud Kimbery 8.8 317cc 27 
+insert 56 stud Jannie 6.5 318ca 29 
+insert 52 mat Ghinion 1 5 2 3 
+insert 63 stud Denna 6.8 312ce 24 
+print
+find 84
+print
+insert 89 stud Laurinda 9.9 315cd 22 
+insert 87 stud Erwin 9.3 314cf 30 
+find 97
+print
+print
+insert 32 stud Roxanne 6.5 312cd 24 
+find 89
+find 56
+find 7
+find 68
+find 95
+print
+find 69
+insert 97 mat SO 1 3 3 2 
+print
+print
+insert 7 stud Tammara 7.2 318cf 20 
+find 84
+find 52
+print
+insert 23 mat IA 1 5 3 3 
+print
+insert 84 stud Marceline 9.5 318cb 30 
+insert 30 stud Sonia 8.9 311cb 21 
+insert 48 mat ML 4 3 3 6 
+find 87
+insert 48 stud Denna 6.9 320cf 18 
+insert 50 mat ML 2 5 2 2 
+insert 63 stud Marceline 8.5 311cd 18 
+find 48
+insert 24 mat PA 1 4 3 4 
+print
+find 45
+insert 72 stud Jannie 9.3 318cf 29 
+insert 100 mat USO 3 4 3 6 
+insert 27 stud Brendan 9.2 319ce 18 
+find 24
+find 17
+insert 45 mat ED 4 2 2 1 
+insert 12 stud Marceline 7.5 316cc 21 
+find 17
+insert 54 mat EGC 2 2 3 4 
+find 87
+find 68
+find 56
+insert 84 stud Elvira 6.7 319cb 22 
+print
+insert 43 stud Laurinda 8.5 320cb 28 
+insert 97 stud Usha 7.0 311cc 28 
+find 36
+find 15
+find 95
+find 27
+insert 51 stud Santana 7.4 317cb 28 
+find 97
+insert 99 stud Bryce 6.5 311cb 18 
+find 63
+find 90
+find 91
+print
+insert 78 stud Sierra 6.9 317ce 24 
+insert 4 mat CPL 1 4 3 6 
+insert 30 stud Jannie 6.9 314ce 19 
+print
+find 30
+find 32
+insert 74 mat ELTH 1 5 2 1 
+print
+find 36
+insert 28 mat PP 2 6 3 6 
+insert 67 mat PA 4 4 2 5 
+find 7
+find 51
+find 88
+find 51
+insert 65 mat Matematica3 4 4 3 2 
+insert 7 stud Angelique 8.1 315cd 29 
+print
+find 28
+insert 91 mat ASC 4 5 2 4 
+print
+insert 28 mat SO 3 6 3 6 
+find 15
+find 95
+insert 70 stud Lai 9.8 317ca 20 
+insert 81 mat BD 4 4 3 6 
+print
+find 69
+insert 24 mat Ghinion 2 1 2 5 
+find 69
+find 78
+insert 97 stud Raylene 6.3 320cb 19 
+find 57
+insert 21 stud Leanna 7.6 319ce 25 
+insert 12 mat IA 4 6 3 6 
+find 56
+insert 60 mat FIZICA 1 5 2 6 
+insert 38 mat EComm 2 4 2 3 
+print
+print
+print
+find 33
+print
+insert 35 stud Laurinda 8.3 320cc 18 
+insert 4 mat PM 4 4 2 2 
+print
+insert 55 stud Lucille 7.4 320cd 25 
+find 54
+find 23
+find 43
+insert 23 stud Raylene 10.0 312cb 20 
+print
+find 91
+insert 57 mat EEA 4 3 3 1 
+insert 68 stud Leora 6.8 319cb 23 
+insert 95 stud Cassie 7.3 314cb 18 
+find 89
+insert 91 stud Sierra 6.0 318ca 22 
+print
+find 72
+insert 42 stud Lai 6.2 315cd 30 
+find 81
+insert 11 mat Matematica 3 3 3 2 
+find 87
+insert 81 stud Roxanne 10.0 311ca 30 
+insert 23 stud Son 6.3 313cc 23 
+find 27
+insert 94 mat ML 2 3 2 5 
+print
+insert 14 stud Angelique 6.9 313cb 29 
+find 100
+insert 24 mat ML 1 3 2 4 
+insert 79 mat PP 1 5 3 2 
+find 57
+find 63
+print
+print
+find 60
+print
+find 43
+find 33
+insert 100 stud Leanna 7.4 315cb 30 
+find 79
+insert 4 stud Elvira 9.1 318ca 26 
+insert 61 mat SO 2 6 3 1 
+find 32
+find 55
+find 48
+print
+insert 51 mat SPG 4 6 2 3 
+find 99
+print
+find 69
+find 95
+find 61
+find 97
+insert 3 mat PP 2 2 3 6 
+print

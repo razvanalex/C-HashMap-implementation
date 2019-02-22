@@ -1,0 +1,170 @@
+---------------------------------------------------------------------
+                    TEMA 1 - Structuri de Date
+---------------------------------------------------------------------
+
+Autor
+  Smadu Razvan-Alexandru 315 CB
+
+Fisiere incluse
+	-main.c
+	-hash.c
+	-HashTables.c
+	-HashTables.h
+	-lista.h
+	-materie.h
+	-student.h
+	-README
+	-Makefile
+
+README
+  Pregatiri si decizii luate
+    Fisierul HashTables.h contine definitia pentru tabela hash care contine
+	urmatoarele campuri:
+	  - m       -  dimensiunea vectorului de liste
+	  - fh      -  functia de hash a cheii
+	  - *bucket -  vector de liste
+	  - dKey    -  functia de afisare cheie
+	  - rKey    -  functia de stergere/eliberare memorie pentru cheie
+	  - cmpKey  -  functia de comparare chei
+	  - noItems -  contine numarul de Celule, din toate listele
+	  - loadFactor - contine factorul de incarcare a tabelei
+	  - fgetKey - functie pentru citire cheie din fisier (pentru a evita
+	              dependenta de tipul cheii)
+
+    TInfo este o structura auxiliara care retine informatia din celulele listei
+	si anume:
+	  - dispVal  - functie de afisare a valorii retinute
+	  - freeVal  - functia de eliberare memorie alocata pentru valoare
+	  - info     - este un pointer catre valoarea efectiva
+	  - key      - este un pointer catre cheia efectiva
+	  - sizeKey  - retine dimensiunea (in octeti) din memorie a cheii 
+	               (de ex. pentru int = 4 sau 8; pentru char* este nr de 
+				   caractere + 1 (deoarece contine si terminatorul de caracter))
+	  - dKey     - este functia de afisare a cheii
+	  - rKey     - este functia de dezalocare cheie
+	  - cmpKey   - functia de comparare chei
+
+    Tipuri definite:
+      unsigned int(*TFHas)(const void*, size_t, size_t) - este un 
+	               tip pointer la functia hash
+	  void(*fdisplay)(FILE*, const void*) - este un tip pointer la o functie
+	               care afiseaza informatii de orice tip in fisier
+	  void(*release)(void*) - este un tip pointer la functie ce elibereaza 
+	               memoria 
+      int(*compare)(const void*, const void*) - compara doua elemente de un
+	               anumit tip
+
+	Operatii cu tabela hash:
+	- initializare -  initTH(size_t, TFHash) - se aloca memorie pentru tabela
+	                  hash, pentru vectorul de bucket-uri si se initializaza
+					  unele campuri cu valori default. Returneaza un pointer 
+					  la tabela creata sau NULL daca a esuat alocarea.
+    - inserare - ins(TH**, void*, void*, size_t, int(*)(ALG, void*, void*, 
+	             compare)) - este o functie de inserare (generica) care 
+				 primeste ca parametri tabela, cheia, sizeof tip si un 
+				 un pointer la o functie care face inserarea intr-o lista
+				 (in cazul de fata, generica). In tabela hash se poate 
+				 introduce orice element, atata timp cat se realizeaza
+				 functii care sa poata prelucra datele stocate.
+				 Functia de adaugare in lista introduce in lista elementele
+				 dupa cheie si anume daca nu exista in lista respectiva, se
+				 va introduce la final, iar daca exista de sterge informatia
+				 curenta si se pune noua informatie.
+	- afisare - fprintTH(FILE*, TH*, void(*)(FILE*, const void*)) - afiseaza
+	            tabela hash intr-un fisier. Functia pe care o primeste ca 
+				parametru trebuie sa realizeze afisarea unui singur element
+	- distrugere - DestroyTH(TH **th, void(*)(void*)) - elibereaza memoria 
+	            alocata pentru tabela hash. Functia primita ca parametru
+				elibereaza informatia pentru un singru element al listei.
+	
+    Nota: Implementarile functiilor din HashTables.h se gasesc in 
+	      HashTables.c
+   
+    Tabela hash contine liste generice care contin ca informatie o structura
+	de tip TInfo care contine informatia propriu-zisa (in cazul de fata de tip
+	TStudent si TMaterie), cheia si functii care realizeaza prelucrarea valorii
+	retinute.
+
+  Implementarea task-urilor
+	  Task 0 - initializare tabela hash
+	    Dupa deschiderea fisierului input.in, se citeste comanda de inithash
+		care va apela functia de initializare a tabelei hash. In cazul in care
+		cheia este de tip int, se vor initializa functiile tabelei cu 
+		functii de prelucrare int-uri (de forma [nume]Int(args)) sau cu 
+		functii de prelucrare string-uri daca tipul cheii este string 
+		(functii care au nume de forma [nume]String(args)). Dupa initializarea
+		tabelei, se citeste numarul de operatii si apoi se citesc operatiile 
+		efective si se interpreteaza.
+	
+	  Task 1 - inserare si printare
+	    a) inserare
+		  Dupa interpretarea comenzii de inserare, se citeste cheia cu functia
+		  specifica (adica pentru int-uri sau string-uri), se citeste tipul
+		  informatiei, iar apoi se citesc informatiile acelui tip. Aceste date
+		  sunt puse intr-o zona de memorie de tip TInfo si apoi introduse
+		  intr-o celula. Daca totul s-a realizat cu succes, atunci se realizaza
+		  inserare la sfarsit de lista a celulei nou generate si se actualizeaza
+		  parametrii tabelei (nr de celule si factorul de incarcare).
+		  In cazul in care se gaseste cheia in lista, se sterge informatia 
+		  existanta si se pune noua informatie in acea pozitie (adica se pune 
+		  celula auxiliara creata in locul celulei existente). In caz de esec
+		  se returneaza 0.
+
+        b) printare
+	      Printarea tabelei hash este realizata de functia fprintTH(FILE*, TH*,
+		  void(*)(FILE*, const void*)). Functia de afisare element utilizata in
+		  acest caz este printEl(FILE*, const void*) care afiseaza perechi de 
+		  date. Functia printStud(FILE*, const void*) afiseaza elemente de tip
+		  student, iar printMat(FILE*, cosnt void*) afiseaza elemente de tip 
+		  TMaterie. Afisarea tabelei sa face in fisierul output.out
+      
+	  Task 2 - redimensionare si cautare
+	    a) redimensionare
+		  LFTHRESHOLD contine valoarea maxima admisa pentru factorul de umplere
+		  a tabelei hash. In cazul in care aceasta valoare este atinsa atunci
+		  se apeleaza functia resizeTH(TH*) care:
+		    - aloca un vector de memorie de doua ori mai mare decat vectorul 
+			initial de bucket-uri. 
+			- pentru fiecare lista din tabela:
+			  - se iau celulele si se muta in noul vector de elemente, in 
+			  functie de noul hash obtinut (dupa normalizare).
+			  - elementul nou creat se introduce la finalul listei si 
+			  se seteaza urmatoarea celula ca fiind NULL (pentru a putea 
+			  stabili unde se termina lista, alftel nu ar fi un control prea
+			  mare asupra gestiunii listelor).
+			- se actualizeaza parametrii tabelei si se elibereaza memoria pentru
+			vechiul vector de liste.
+		  Valoare de retur a functiei de redimensionare este 1 pentru succes si 
+		  0 pentru eroare de alocare memorie pentru vectorul de liste.
+
+		b) cautare
+		  Cautare consta in:
+		  - identificarea comenzii de cautare "find"
+		  - citirea cheii cu ajutorul functiei specifice stocate in tabela hash
+		  - hash-uirea cheii si obtinerea indicelui listei in care ar trebui
+		  sa se afle informatia
+		  - cautarea in lista dupa egalitate cheilor
+		  - in cazul in care este gasita cheia se returneaza o adresa la 
+		  informatia asociata
+		  - in cazul contrar se returneaza NULL
+     
+	 Task 3 - stergere
+	   Stergerea unui element dupa cheie necesita:
+	     - gasirea bucket-ului in care ar trebui sa se afle respectiva cheie
+		 prin hash-uirea acestuia. 
+		 - parcurgerea listei selectate si compararea cheii
+		 - in cazul in care s-a gasit cheia atunci se refac legaturile, se 
+		 elibereaza memoria si se actualizeaza parametrii tabelei hash,
+		 in final returnandu-se valoare 1 (succes).
+		- in cazul contrar se returneaza 0 (nu s-a gasit cheia in tabela)
+	
+	Task 4 - eliberare memorie (bonus)
+	  Pentru realizarea acestui task a fost creata o functie care elibereaza 
+	  tabela hash (DestroyTH(void*)). Aceasta primeste ca parametru functia
+	  de eliberare informatie de tip TInfo, in care se apeleaza de asemenea
+	  si functiile de eliberare valoare si cheie definite in tabela hash.
+	  Distrugerea se realizeaza in ordinea inversa crearii elementelor.
+
+	Nota: Toate celelalte alocari auxiliare facute au fost dezalocate 
+	      dupa ce nu a mai fost nevoie de acele zone de memorie.
+

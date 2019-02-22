@@ -1,0 +1,53 @@
+inithash s 50
+51
+insert dacfafeaad mat CN1 2 2 3 6
+insert edecbffcdb mat CN1 2 5 2 6
+insert afcfcedeef mat Ghinion 4 3 2 5
+insert fceddebbfe mat IOC 1 4 2 1
+insert dccbceacab mat FIZICA 1 5 2 3
+insert abfcfacadb mat TS 2 1 3 3
+insert cbddcfdfce stud Leora 6.2 313cc 24
+print
+insert fccecdfddc mat EGC 1 2 2 4
+insert ceccfbfaaf stud Felicita 6.4 317cd 23
+insert fcacdbbadd stud Denna 6.2 314cb 23
+print
+insert fffdeaefed stud Felicita 8.1 313cb 26
+print
+insert dbfeccdcbc stud Son 8.8 320ce 26
+insert ddadbfcdac mat MN 2 3 3 3
+insert ddcbdedbbc mat TS 2 1 3 4
+insert dddcfbbabe stud Elvira 7.6 317cb 26
+insert bafaffedbe mat Ghinion 4 6 3 2
+insert cdddffadae stud Marceline 6.6 311cc 18
+print
+insert dafdcfcfba mat PC 3 2 3 4
+print
+insert cedcebcbed mat SPG 1 2 2 6
+insert feaddabddc mat BD 3 3 3 2
+print
+insert acfedeaaef stud Cassie 7.1 315cf 30
+insert cfbfaaeaaa stud Cassie 6.5 318cb 30
+insert fdceedcecb stud Oneida 8.3 317cf 26
+insert debadeffae stud Belva 8.2 316ca 20
+print
+insert ecdabccdad stud Bryce 8.9 312ca 28
+print
+insert bbbecfbcda stud Cassie 9.5 315ca 29
+insert aeceffbfcd mat CN2 1 4 2 1
+insert dfeeaabecf stud Erwin 9.6 313cb 22
+insert fcbccbdfac mat IOC 1 5 3 4
+insert bbebcbcbbb mat AA 4 4 3 5
+insert bbebeeabad mat PP 3 6 3 3
+insert abefdcbcac stud Roxanne 7.0 311ce 19
+insert ddefecfbee stud Belva 9.4 319cc 27
+print
+insert adfefcefba mat Matematica3 1 2 2 4
+insert caebaaeebe stud Laurinda 6.3 312ca 19
+insert dcdbecdbeb mat EEA 2 1 3 6
+insert acfedeaaef stud Cassie 7.1 315cf 30
+insert cfbfaaeaaa stud Cassie 6.5 318cb 30
+insert fdceedcecb stud Oneida 8.3 317cf 26
+insert debadeffae stud Belva 8.2 316ca 20
+insert afecdedbad mat MN 3 2 3 3
+print

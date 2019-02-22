@@ -1,0 +1,12 @@
+inithash s 2
+10
+insert eefbedaacb mat POO 1 1 3 4 
+insert dadacadfef stud Brendan 6.9 314cf 22 
+find eefbedaacb
+find bcaaffdfca
+find eefbedaacb
+insert bbbeddccce stud Leanna 6.6 312ce 28 
+insert fcaadbcdef stud Bryce 6.4 316cc 26 
+find bbbeddccce
+insert edcaaddccd mat PP 4 6 3 6 
+print

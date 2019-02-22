@@ -1,0 +1,202 @@
+inithash s 20
+200
+find dbefbfbcfd
+print
+find dbefbfbcfd
+delete dbefbfbcfd
+insert aefaaccaff stud Santana 7.9 316cb 24 
+print
+insert ebfebfdeed stud Bryce 8.7 312ca 24 
+find ebfebfdeed
+print
+find ebfebfdeed
+insert eddccccebe mat USO 4 5 2 2 
+insert bfcdefdaeb mat CN1 4 1 3 4 
+print
+find ebfebfdeed
+delete eddccccebe
+print
+delete cdfaacacdc
+insert dedcabdcfc mat PL 1 5 2 4 
+insert eeccbeebaf stud Marceline 8.5 317cf 21 
+insert ceffaeacea mat IOC 1 3 2 6 
+insert eadefccbff mat IOC 2 3 3 6 
+insert fbffeafeba mat ELTH 2 1 3 6 
+print
+insert effcacfdda mat ELTH 4 6 2 5 
+find ebfebfdeed
+print
+delete ebfebfdeed
+delete ebfebfdeed
+print
+print
+insert ccdfbaefff stud Laurinda 9.6 311cc 26 
+find ceffaeacea
+insert dedbbefeae stud Oneida 6.0 320cd 24 
+insert ffccefdcca stud Oneida 7.9 319cd 28 
+delete ccdfbaefff
+print
+insert cbdcfafbee stud Raylene 6.8 320cb 29 
+insert bebbddedac stud Belva 8.3 316ca 26 
+insert fafdfeeebc mat ASC 2 3 3 3 
+delete badbacaeae
+delete cbdcfafbee
+delete fafdfeeebc
+delete ebdccedded
+delete eeccbeebaf
+delete fbffeafeba
+delete cdadafadbc
+insert fbabaeecaa stud Felicita 6.9 318cf 20 
+insert dabeafcdfd mat ELTH 4 3 3 5 
+insert cfbaddfcfa stud Sierra 6.9 315cd 23 
+delete bebbddedac
+find eadefccbff
+insert deadeddcfb stud Leola 8.5 320cd 20 
+insert febecaebbb mat SO 2 4 2 6 
+insert afaefaebde mat EComm 4 4 3 4 
+find aefaaccaff
+find abdccddecf
+print
+insert eaeceffbfd stud Santana 9.5 315ca 20 
+delete aefaaccaff
+delete dedcabdcfc
+delete cfbaddfcfa
+insert edbcbcaded mat Mizerie 3 2 2 5 
+insert cefdbbfffa mat PA 2 1 2 6 
+insert eafedabebe stud Erwin 6.3 319cb 23 
+insert caeceeddaa stud Roxanne 9.9 317ca 21 
+find deadeddcfb
+print
+find fbabaeecaa
+delete eeccbeebaf
+insert bfdebabdfa mat CN1 3 4 3 6 
+print
+find afaefaebde
+print
+insert aceedbdaef mat POO 4 4 3 4 
+print
+insert bbecdcfaef stud Sonia 7.2 311ca 22 
+insert eedaedbcad stud Denna 7.2 311cf 20 
+delete eddccccebe
+insert dcafcfcbfd stud Raylene 10.0 317cf 30 
+find cbebbeedea
+insert fbefeddbbc stud Johnette 9.8 313ce 19 
+insert fbddfcdaeb mat IOC 2 4 2 6 
+print
+delete beeefdcdca
+insert fcbcccedad stud Cassie 6.0 318cd 22 
+insert badefaaeee stud Sonia 7.3 319cf 20 
+insert adcafdafef mat IOC 2 6 3 3 
+delete aceedbdaef
+find deadeddcfb
+find abbbbeadcb
+find dcedfeccde
+delete dcafcfcbfd
+insert cddfecdadc stud Celestine 8.5 313ca 25 
+find badbacaeae
+insert bdbeccdbbd stud Raylene 6.6 318cf 30 
+insert fdfcfdddbc stud Jama 7.4 319cc 28 
+insert fbcadfcfcb stud Leola 7.1 320ce 21 
+find fbcadfcfcb
+delete eaeceffbfd
+delete fdcebcbcae
+print
+print
+insert febfdcbade stud Leora 9.6 315cd 22 
+delete eaeceffbfd
+insert bebabeeeda mat EComm 1 5 2 1 
+insert bbaaafcefd mat PL 2 6 2 5 
+insert cdcfbbdffd stud Bryce 6.4 313cd 30 
+find cdfaacacdc
+find fbefeddbbc
+insert daefdfffbe mat PL 3 5 3 1 
+insert dbaadececb mat ELTH 2 3 2 1 
+insert caffcbdcba mat Mizerie 4 4 2 1 
+insert dfcabbbdce stud Elvira 9.9 316cd 24 
+insert dbabfeffad mat ML 1 1 3 2 
+insert fbffcaaeef stud Sonia 9.3 311cc 25 
+insert fcfecfdcab mat CN1 1 5 3 5 
+insert ebecdedbbd mat CN1 3 3 3 3 
+print
+insert cdbfdfdaff mat EComm 3 4 2 2 
+insert cafdfcdeee mat EGC 4 4 2 1 
+insert cadfbadbbc mat Matematica3 3 5 3 5 
+delete bfcdefdaeb
+print
+find eeccbeebaf
+insert ddabbcbcce mat IOC 4 4 2 3 
+print
+find dabeafcdfd
+insert aedcddcdbe mat SPG 3 2 3 4 
+insert adbbcbbbed stud Usha 8.9 312cd 23 
+print
+find ffdfedebfe
+insert decbcdfbcc mat SO 3 4 3 5 
+insert eabebcbbbd stud Roxanne 7.0 315cf 24 
+insert edbecdeaaa stud Erwin 10.0 320ce 30 
+insert fccecbdcdf mat ML 3 1 3 1 
+insert fdfcecdfed mat Ghinion 3 3 3 4 
+delete febecaebbb
+find cdfaacacdc
+delete effcacfdda
+find cefdbbfffa
+delete ceffaeacea
+insert aeacfacfaa stud Roxanne 8.0 313cb 25 
+delete cdadafadbc
+print
+insert dbccffaadf stud Usha 6.5 314ca 20 
+delete adbbcbbbed
+find fbefeddbbc
+delete beeefdcdca
+print
+find cfbaddfcfa
+print
+find eaeceffbfd
+insert cfdfdeecec mat CPL 3 2 2 5 
+insert dafcccbfdb stud Oneida 6.7 313ca 29 
+find dedcabdcfc
+find cdbfdfdaff
+insert fabdafdbab stud Sierra 9.2 312ce 18 
+delete fafdfeeebc
+insert afbafbefba stud Felicita 8.6 312cb 20 
+insert cecaeeabda mat Ghinion 4 3 2 2 
+find baadbdecec
+insert dfdbcdcdbe stud Linda 7.9 313ca 23 
+print
+insert adabbdcdde mat TS 2 4 3 3 
+insert beabbfecbe mat IOC 3 1 2 4 
+find aaaccaaffb
+print
+insert bcbedacaff stud Malena 8.1 314ce 26 
+find bfcdefdaeb
+find dfdbcdcdbe
+find ecfdbdbbfd
+print
+print
+insert ddcbdcffee mat EGC 4 5 2 5 
+find aaadfbbcac
+print
+find badbacaeae
+delete fdfcecdfed
+insert dedddaedda mat CN1 4 5 2 2 
+delete dbabfeffad
+find deadeddcfb
+delete ebdccedded
+find cdcfbbdffd
+delete fcbcfbfbfe
+insert ceadbbedfe stud Angelique 8.6 317cc 28 
+find afaefaebde
+delete bbaaafcefd
+find eedaedbcad
+find dcedfeccde
+find aefaaccaff
+insert baecfbfaed mat FIZICA 3 6 3 3 
+delete fbefeddbbc
+insert acafbfdeba mat MN 2 4 3 2 
+print
+delete ccdfbaefff
+find bcbdadecff
+print
+find fbffcaaeef
+insert aedcdeecba mat MN 2 6 3 1 
+print

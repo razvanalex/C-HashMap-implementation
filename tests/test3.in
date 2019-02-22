@@ -1,0 +1,102 @@
+inithash d 100
+100
+insert 5 stud Marceline 8.0 320cd 23 
+insert 60 stud Malena 7.9 320cc 21 
+print
+insert 57 mat CPL 3 2 3 1 
+insert 29 stud Sonia 6.6 318cc 27 
+insert 71 mat EEA 3 2 3 4 
+insert 5 stud Malena 9.3 314cd 25 
+insert 46 stud Jama 10.0 315cb 18 
+insert 65 mat Matematica 1 2 3 6 
+insert 55 mat PP 3 2 3 4 
+insert 21 mat USO 4 4 2 6 
+print
+insert 24 mat Mizerie 3 5 3 1 
+insert 78 mat MN 2 6 3 6 
+insert 24 mat PA 2 6 3 2 
+insert 78 mat ED 1 5 3 6 
+print
+print
+print
+insert 89 mat SO 1 3 2 6 
+print
+insert 54 stud Leanna 8.7 319cc 21 
+print
+insert 62 stud Usha 8.6 315ce 25 
+insert 58 stud Elvira 8.1 314ce 20 
+insert 93 mat Mizerie 4 6 3 6 
+insert 7 mat PP 3 1 3 2 
+print
+insert 28 stud Sierra 9.2 318ca 24 
+insert 3 mat EEA 1 3 3 4 
+insert 49 stud Felicita 6.5 319ce 21 
+insert 68 stud Jannie 7.3 313cc 29 
+insert 44 mat PM 3 6 2 5 
+insert 22 stud Leola 6.1 314cd 29 
+insert 2 mat PC 1 5 2 4 
+print
+insert 23 stud Lucille 6.3 313cb 25 
+print
+insert 6 mat ML 2 2 2 1 
+print
+print
+insert 22 mat Ghinion 1 3 2 1 
+insert 36 mat USO 2 1 2 3 
+insert 73 mat ED 3 2 2 5 
+print
+print
+print
+insert 49 stud Leora 8.0 315cd 29 
+print
+insert 11 mat EGC 4 4 3 6 
+print
+insert 100 stud Raylene 7.6 313cd 19 
+insert 78 stud Oneida 9.7 316cb 24 
+print
+insert 44 mat IA 4 2 3 6 
+insert 51 mat IOC 4 4 3 1 
+insert 77 stud Linda 8.0 316ca 26 
+print
+insert 89 mat BD 3 3 2 2 
+insert 20 stud Erwin 9.0 312cb 21 
+print
+insert 29 mat USO 1 2 2 6 
+insert 23 stud Brendan 6.3 311cf 22 
+print
+print
+insert 90 mat MN 4 1 3 5 
+insert 52 mat POO 4 5 2 1 
+insert 98 mat SO 2 4 3 1 
+print
+insert 38 stud Bryce 7.4 317cf 23 
+insert 85 mat PM 2 6 3 5 
+insert 86 stud Leola 7.3 311cc 28 
+insert 20 mat USO 3 4 2 3 
+insert 29 mat BD 4 3 3 2 
+insert 6 stud Belva 8.4 317cf 29 
+insert 83 mat PA 1 4 3 4 
+insert 79 mat POO 4 4 3 5 
+print
+insert 64 mat PA 1 3 3 4 
+print
+insert 31 mat BD 4 5 3 4 
+print
+insert 62 mat PL 4 5 2 3 
+insert 21 mat CN1 1 1 2 4 
+insert 29 mat PP 3 1 3 3 
+insert 56 mat POO 2 2 2 4 
+insert 80 stud Roxanne 7.6 312cb 29 
+insert 32 stud Laurinda 7.4 313ca 24 
+insert 88 stud Oneida 7.6 315cb 28 
+print
+print
+insert 26 stud Lai 7.4 318cc 25 
+insert 64 stud Angelique 8.9 318ce 20 
+insert 27 mat SPG 1 3 2 5 
+print
+insert 99 stud Roxanne 8.8 311cd 26 
+insert 41 stud Jannie 7.9 314ca 28 
+insert 68 mat MN 1 6 2 2 
+insert 83 mat SO 1 3 3 2 
+print
